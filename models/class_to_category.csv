@@ -1,0 +1,144 @@
+item,category,images,status
+apple,Fruits,1028,OK
+banana,Fruits,1033,OK
+mango,Fruits,1045,OK
+orange,Fruits,1028,OK
+grape,Fruits,959,OK
+watermelon,Fruits,704,OK
+pineapple,Fruits,719,OK
+papaya,Fruits,600,OK
+guava,Fruits,800,OK
+avocado,Fruits,600,OK
+lemon,Fruits,702,OK
+lime,Fruits,600,OK
+strawberry,Fruits,940,OK
+pomegranate,Fruits,899,OK
+tomato,Vegetables,712,OK
+potato,Vegetables,697,OK
+onion,Vegetables,414,OK
+carrot,Vegetables,701,OK
+cucumber,Vegetables,714,OK
+cabbage,Vegetables,412,OK
+cauliflower,Vegetables,399,OK
+eggplant,Vegetables,404,OK
+capsicum,Vegetables,600,OK
+beetroot,Vegetables,408,OK
+pumpkin,Vegetables,0,MISSING
+zucchini,Vegetables,300,OK
+spinach,Leafy greens and fresh herbs,117,OK
+lettuce,Leafy greens and fresh herbs,116,OK
+kale,Leafy greens and fresh herbs,0,MISSING
+coriander_leaves,Leafy greens and fresh herbs,0,MISSING
+mint,Leafy greens and fresh herbs,0,MISSING
+curry_leaves,Leafy greens and fresh herbs,0,MISSING
+fenugreek_leaves,Leafy greens and fresh herbs,0,MISSING
+rice,Grains and cereals,300,OK
+wheat,Grains and cereals,0,MISSING
+oats,Grains and cereals,0,MISSING
+corn,Grains and cereals,218,OK
+barley,Grains and cereals,0,MISSING
+millet,Grains and cereals,0,MISSING
+ragi,Grains and cereals,0,MISSING
+quinoa,Grains and cereals,0,MISSING
+chickpeas,"Pulses, beans and lentils",0,MISSING
+green_gram,"Pulses, beans and lentils",0,MISSING
+black_gram,"Pulses, beans and lentils",0,MISSING
+kidney_beans,"Pulses, beans and lentils",0,MISSING
+lentils,"Pulses, beans and lentils",0,MISSING
+peas,"Pulses, beans and lentils",120,OK
+pigeon_peas,"Pulses, beans and lentils",0,MISSING
+soybeans,"Pulses, beans and lentils",117,OK
+almonds,Nuts and seeds,300,OK
+cashews,Nuts and seeds,300,OK
+peanuts,Nuts and seeds,300,OK
+walnuts,Nuts and seeds,280,OK
+pistachios,Nuts and seeds,280,OK
+sesame,Nuts and seeds,0,MISSING
+chia,Nuts and seeds,0,MISSING
+flaxseed,Nuts and seeds,0,MISSING
+sunflower_seeds,Nuts and seeds,0,MISSING
+milk,Dairy products,0,MISSING
+curd,Dairy products,0,MISSING
+yoghurt,Dairy products,0,MISSING
+cheese,Dairy products,0,MISSING
+paneer,Dairy products,0,MISSING
+butter,Dairy products,0,MISSING
+ghee,Dairy products,0,MISSING
+cream,Dairy products,0,MISSING
+soy_milk,Milk alternatives,0,MISSING
+almond_milk,Milk alternatives,0,MISSING
+oat_milk,Milk alternatives,0,MISSING
+coconut_milk,Milk alternatives,0,MISSING
+eggs,Eggs and animal proteins,0,MISSING
+chicken,Eggs and animal proteins,0,MISSING
+beef,Eggs and animal proteins,0,MISSING
+mutton,Eggs and animal proteins,0,MISSING
+pork,Eggs and animal proteins,0,MISSING
+tofu,Eggs and animal proteins,0,MISSING
+tempeh,Eggs and animal proteins,0,MISSING
+sardines,Fish and seafood,0,MISSING
+tuna,Fish and seafood,0,MISSING
+salmon,Fish and seafood,0,MISSING
+mackerel,Fish and seafood,50,OK
+anchovies,Fish and seafood,0,MISSING
+prawns,Fish and seafood,300,OK
+crab,Fish and seafood,0,MISSING
+mussels,Fish and seafood,0,MISSING
+coconut_oil,Oils and fats,0,MISSING
+sunflower_oil,Oils and fats,0,MISSING
+olive_oil,Oils and fats,0,MISSING
+groundnut_oil,Oils and fats,0,MISSING
+mustard_oil,Oils and fats,0,MISSING
+sesame_oil,Oils and fats,0,MISSING
+turmeric,Spices and seasonings,0,MISSING
+chilli_powder,Spices and seasonings,0,MISSING
+black_pepper,Spices and seasonings,0,MISSING
+cumin,Spices and seasonings,0,MISSING
+coriander_seeds,Spices and seasonings,0,MISSING
+cinnamon,Spices and seasonings,0,MISSING
+cardamom,Spices and seasonings,0,MISSING
+cloves,Spices and seasonings,0,MISSING
+garam_masala,Spices and seasonings,0,MISSING
+sugar,Sweeteners and baking ingredients,0,MISSING
+jaggery,Sweeteners and baking ingredients,0,MISSING
+honey,Sweeteners and baking ingredients,0,MISSING
+flour,Sweeteners and baking ingredients,0,MISSING
+baking_powder,Sweeteners and baking ingredients,0,MISSING
+cocoa_powder,Sweeteners and baking ingredients,0,MISSING
+yeast,Sweeteners and baking ingredients,0,MISSING
+ketchup,Sauces and condiments,0,MISSING
+mayonnaise,Sauces and condiments,0,MISSING
+mustard,Sauces and condiments,0,MISSING
+soy_sauce,Sauces and condiments,0,MISSING
+vinegar,Sauces and condiments,0,MISSING
+chutney,Sauces and condiments,0,MISSING
+pickles,Sauces and condiments,0,MISSING
+rice_packets,Packaged staple foods,0,MISSING
+flour_bags,Packaged staple foods,0,MISSING
+packaged_oats,Packaged staple foods,0,MISSING
+pasta,Packaged staple foods,0,MISSING
+noodles,Packaged staple foods,0,MISSING
+bread,Packaged staple foods,0,MISSING
+breakfast_cereals,Packaged staple foods,0,MISSING
+biscuits,Packaged snacks and convenience foods,0,MISSING
+chips,Packaged snacks and convenience foods,0,MISSING
+crackers,Packaged snacks and convenience foods,0,MISSING
+instant_noodles,Packaged snacks and convenience foods,0,MISSING
+frozen_foods,Packaged snacks and convenience foods,0,MISSING
+ready_to_eat_meals,Packaged snacks and convenience foods,0,MISSING
+water,Beverages,0,MISSING
+fruit_juice,Beverages,0,MISSING
+soft_drinks,Beverages,0,MISSING
+tea,Beverages,0,MISSING
+coffee,Beverages,0,MISSING
+packaged_milk_drinks,Beverages,0,MISSING
+biryani,Prepared meals and dishes,288,OK
+dosa,Prepared meals and dishes,573,OK
+idli,Prepared meals and dishes,559,OK
+chapati,Prepared meals and dishes,566,OK
+dal,Prepared meals and dishes,600,OK
+curry,Prepared meals and dishes,600,OK
+sambar,Prepared meals and dishes,0,MISSING
+salad,Prepared meals and dishes,0,MISSING
+soup,Prepared meals and dishes,0,MISSING
+pasta_dishes,Prepared meals and dishes,0,MISSING

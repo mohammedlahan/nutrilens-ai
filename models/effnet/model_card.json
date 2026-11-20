@@ -1,0 +1,16 @@
+{
+  "model": "EfficientNetV2B0",
+  "img_size": [
+    224,
+    224
+  ],
+  "num_classes": 36,
+  "preprocessing": "pass 0-255 pixel values (rescaling is inside the model)",
+  "top1_test": 0.9749,
+  "top3_test": 0.9861,
+  "confidence_threshold": 0.5,
+  "tta": true,
+  "label_smoothing": 0.1,
+  "trained_on_images": 3115,
+  "seed": 42
+}
